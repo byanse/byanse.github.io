@@ -588,7 +588,7 @@ footer {
 }
 
 img {
-  width: 200px;
+  max-width: 100%;
 }
 
 section.contact {
